@@ -18,7 +18,7 @@ TypeScript
 - Выставление рейтинга фильмам
 - Доступ к страницам регулируется ролью юзера (админ или обычный пользователь)
 - Создание моделей MongoDB и связей между ними
-- Глубокий запрос сущностей из БД (через agregations)
+-• Глубокий запрос сущностей из БД (через agregations)
 
 
 ### Стек, технологии и проч:
@@ -30,7 +30,6 @@ NestJS, accessToken, Доступ по ролям через кастомные 
 
 >Database: MongoDB
 
-![Uploading admin.user.png…]()
-![Uploading admin.movies.png…]()
-![discovery](https://github.com/pirogHub/onlineCinema-server/assets/122260967/57775a0e-eeea-4dfd-98be-4da6cf51481b)
-
+![channel](admin.movies.png)
+![main](admin.user.png)
+![player](discovery.png)
